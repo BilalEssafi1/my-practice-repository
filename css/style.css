@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+#header-image {
+    background-image: url("https://widata.s3-eu-central-1.amazonaws.com/f50575f75f084d5c63d7b5f95ab49886_XL_CJ_Header_1440x600_Marokko_shutterstock_1223925577.jpg");
+    height: 50vh;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    margin:0%
+}
+
+.text-white {
+    color:white;
+}
+nav {
+    margin-top:0%;
+    text-align: center;
+    background-color:#46261b;
+}
+nav > ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+
+nav li {
+    font-size: 1.1em;
+    display: inline-block;
+    margin-left:10%;
+}
+
+nav a {
+    text-decoration:none;
+    color:white;
+    font-weight:bold;
+}
+
+nav a:hover {
+    color:black;
+    background-color: white;
+    text-decoration:underline;
+}
+
+body {
+    margin:0%;
+    padding:0;
+    font-family: "Playfair Display", serif;
+    background-color: #f3e5d0;
+}
+
+
+.brief-history {
+    text-align:left;
+}
+
+.brief-history{
+    width: 700px;
+    margin:2%;
+    text-align:justify;
+}
