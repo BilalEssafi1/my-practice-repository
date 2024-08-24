@@ -80,21 +80,12 @@ body {
 }
 
 /* Introduction Section styles */
-
-.intro-title {
-    margin-bottom:none;
-}
-.intro-text {
-    display:flex;
-    align-items:center;
-    width: 90%;
-    margin:2% auto;
-    overflow: hidden;
-}
-
 .intro-image {
-    width:auto;
-    max-width: 300px;
-    margin-left: 10px;
+    float:right;
+    width:300px;
+    margin:2%;
 }
 
+.intro-text {
+    margin: 2%;
+}
