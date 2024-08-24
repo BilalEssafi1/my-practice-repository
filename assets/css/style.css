@@ -1,6 +1,7 @@
-/*Google Font import */
+/* Google Font import */
 @import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
 
+/* Header Content */
 #header-image {
     background-image: url("https://www.taruk.com/fileadmin/user_upload/KONTINENTE/AFRIKA/REISEN/MAROKKO/LAND_UND_LEUTE/HEADER_BILD/Marokko-Reise-Gerberei-in-Fes.JPG");
     height: 50vh;
@@ -16,6 +17,7 @@
     flex-direction:column;
 }
 
+/* Header overlay */
 #header-image:before {
     content:"";
     position:absolute;
@@ -27,7 +29,7 @@
     z-index:1;
 }
 
-
+/* Styles for text elements */
 .text-white {
     position: relative;
     z-index:2;
@@ -38,11 +40,14 @@
     font-size:1.2em;
     margin-top:10px;
 }
+
+ /* Navigation styles */ 
 nav {
     margin-top:0%;
     text-align: center;
     background-color:#471507;
 }
+
 nav > ul {
     list-style-type:none;
     margin:0;
@@ -65,21 +70,31 @@ nav a:hover {
     color:#D3A96C;
     text-decoration:underline;
 }
-
+/* Body styles */ 
 body {
     margin:0%;
     padding:0;
     font-family: "Handlee", cursive;
-    background-color:white;
+    background-color: #D3A96C;
+    color:white;
 }
 
+/* Introduction Section styles */
 
-.brief-history {
-    text-align:left;
+.intro-title {
+    margin-bottom:none;
+}
+.intro-text {
+    display:flex;
+    align-items:center;
+    width: 90%;
+    margin:2% auto;
+    overflow: hidden;
 }
 
-.brief-history{
-    width: 700px;
-    margin:2%;
-    text-align:justify;
+.intro-image {
+    width:auto;
+    max-width: 300px;
+    margin-left: 10px;
 }
+
