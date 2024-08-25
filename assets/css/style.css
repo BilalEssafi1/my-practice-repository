@@ -122,7 +122,57 @@ hr {
     border: none;
     border-top:1px solid #471507;
 }
-/*Third Paragraph styles */
+/* Contact section */
+.contact-section {
+    text-align:cener;
+    margin:5%;
+}
+
+/*Form styles */
+form {
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+/*Label and input styles */
+label, input, textarea {
+    display:block;
+    margin:1%;
+    width:100%;
+}
+
+/*Checkbox and label styles */
+.checkbox-container, .radio-container {
+    display:block;
+    align-items:center;
+    margin:2% 0;
+    width:auto;
+}
+
+.checkbox-container label, .radio-container label {
+    width:auto;
+    margin-bottom:0;
+}
+
+input[type="checkbox"], input[type="radio"] {
+    width:auto;
+    margin-bottom:2%;
+}
+
+#newsletter {
+    margin-bottom: 2%;
+}
+
+/*Submit button styles */
+input[type="submit"] {
+    background-color:#471507;
+    color:white;
+    padding:10px 20px;
+    border:none;
+    border-radius:5px;
+    cursor: pointer;
+    margin-top:3%;
+}
 
 
 /* Responsive Design */

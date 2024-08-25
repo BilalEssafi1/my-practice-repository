@@ -52,7 +52,7 @@
             </p>
         </section>
         <hr>
-        <section class="third-paragraph">
+        <section class="contact-section">
             <h2>Contact Us</h2>
             <p>Have a question about planning your Moroccan adventure? 
                 Or simply want to share your excitement for exploring Morocco? 
@@ -68,13 +68,20 @@
                 <br>
                 <label for="email">Email</label>
                 <input type="email" name="email" id="email" required>
+                <div class="radio-container">  
                 <p>Have you ever been to Morocco</p>
                     <label for="yes">Yes</label>
                     <input type="radio" id="yes" name="yes" value="yes">
                     <label for="no">No</label>
                     <input type="radio" id="no" name="no" value="no">
-                
-                
+                </div> 
+                <label for="message">Message</label>
+                <textarea id="message" name="message"></textarea>
+                <div class="checkbox-container">
+                    <label for="newsletter">Subscribe to our newsletter</label>
+                    <input type="checkbox" id="newsletter" name="newsletter" value="yes">
+                    <input type="submit" value="Submit">
+                </div>
             </form>
         </section>
     </main>
