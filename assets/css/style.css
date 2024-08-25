@@ -103,29 +103,27 @@ body {
 
 .second-paragraph {
     text-align:right;
-    margin:10% 5% 15% 5%;
+    margin:10% 5% 18% 5%;
     text-align:justify;
     flex-wrap:wrap;
 }
 
+.third-paragraph {
+    margin:10% 5% 18% 5%;
+}
 /* Style hyperlink */
 a {
     font-weight:bold;
     color:inherit;
 }
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .intro-image, .riad-image {
-        width:100%;
-    }
+hr {
+    margin:0;
+    padding:0;
+    border: none;
+    border-top:1px solid #471507;
 }
+/*Third Paragraph styles */
 
-/* Style hyperlink */
-a {
-    font-weight:bold;
-    color:inherit;
-}
 
 /* Responsive Design */
 @media (max-width: 768px) {
