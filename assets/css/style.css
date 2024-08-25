@@ -82,10 +82,37 @@ body {
 /* Introduction Section styles */
 .intro-image {
     float:right;
-    width:300px;
+    width:180px;
     margin:2%;
+    border-radius:10px;
 }
 
 .intro-text {
-    margin: 2%;
+    margin: 5%;
+}
+
+/* Second Paragraph styles */
+.riad-image {
+    float:left;
+    width:250px;
+    margin:2%;
+    border-radius:10px;
+}
+
+.second-paragraph {
+    text-align:right;
+    margin:5%;
+}
+
+.second-paragraph h2 {
+    text-align: right !important;
+    margin:0% !important;
+    padding:0% !important;
+    width: 100%;
+}
+
+/* Style hyperlink */
+a {
+    font-weight:bold;
+    color:inherit;
 }
