@@ -246,13 +246,15 @@ footer li {
     font-size: 14px;
 }
 
-
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    #website-owner-image {
-        width:100%;
+@media (max-width:768px){
+    main, footer {
         display:flex;
-        justify-content: center;
+        flex-direction:column;
+        justify-content:center;
+        align-items:center;
+        text-align:center;
+        width:100%;
+        margin: 5% 0% 0% 0%;
     }
 }
+
