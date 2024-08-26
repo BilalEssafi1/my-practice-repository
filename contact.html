@@ -30,30 +30,41 @@
     </nav> 
             <!--First Paragraph-->
     <main>
-        <img src="assets/media/Bilal_Essafi.jpg" alt="Image of Bilal, the creator of WanderMorocco" id="website-owner-image">
-        <section class="text-left"> 
-            <h2>Discover Morocco Through a Moroccan's Eyes</h2>
-            <p>Welcome to WanderMorocco, your personal travel diary for authentic insights about Morocco from a local's perspective. 
-            Here, you'll discover the hidden gems and cultural treasures that you won’t find in typical travel guides. 
-            My name is Bilal, and I'm a German-Moroccan who was born and raised in Germany but is deeply connected to Moroccan culture, 
-            with most of my family living in Tangier. I visit Morocco every year, so I'm well-acquainted with the country and its customs, 
-            allowing me to offer you a truly authentic experience. This diary goes beyond just sharing Morocco's rich history—it also provides 
-            insider tips to help you explore the country like a true local.
+         <!--Contact Section with contact form-->
+         <section id="contact-section">
+            <h2>Contact Us</h2>
+            <p>Have a question about planning your Moroccan adventure? 
+                Or simply want to share your excitement for exploring Morocco? 
+                Feel free to reach out to me. 
+                I'm here to help and ensure you have an unforgettable experience.
             </p>
-        </section>
-        <!--Second Paragraph-->
-        <hr>
-        <img src="https://static.prod.r53.tablethotels.com/media/ecs/global/magazine/story-images/20230826/72Riad.jpg" alt="Traditional Moroccan riad interior with intricate tilework" id="riad-image">
-        <section class="second-paragraph">
-            <h2>Your Moroccan Adventure Starts Here</h2>
-            <p>Dive deeper into the wonders of Morocco by learning about its rich <a href="history.html">history</a>. 
-                Uncover the stories and cultural heritage that have shaped this incredible country. 
-                Plus, get insider <a href="travel-tips.html">travel tips </a> with unique insights gathered from my many journeys, ensuring your 
-                Moroccan adventure is as enjoyable and unforgettable as possible.
-            </p>
+            <form>
+                <label for="first-name">First Name</label>
+                <input type="text" name="first-name" id="first-name">
+                <br>
+                <label for="last-name">Last Name</label>
+                <input type="text" name="last-name" id="last-name">
+                <br>
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email" required>
+                <div class="radio-container">  
+                <p>Have you ever been to Morocco</p>
+                    <label for="yes">Yes</label>
+                    <input type="radio" id="yes" name="yes" value="yes">
+                    <label for="no">No</label>
+                    <input type="radio" id="no" name="no" value="no">
+                </div> 
+                <label for="message">Message</label>
+                <textarea id="message" name="message"></textarea>
+                <div class="checkbox-container">
+                    <label for="newsletter">Subscribe to our newsletter</label>
+                    <input type="checkbox" id="newsletter" name="newsletter" value="yes">
+                    <input type="submit" value="Submit">
+                </div>
+            </form>
         </section>
     </main>
-    <!--Footer with Social Media Links created with symbols from fontawesome Code Institue's Love Running Project https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode-->
+        <!--Footer with Social Media Links created with symbols from fontawesome Code Institue's Love Running Project https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode-->
     <footer>
         <ul>
             <li><a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="Visit our Facebook page (opens in a new tab)"><i class="fa-brands fa-facebook"></i></a></li>
@@ -62,9 +73,9 @@
             <li><a href="https://www.youtube.com/" target="_blank" rel="noopener" aria-label="Visit our Youtube page (opens in a new tab)"><i class="fa-brands fa-youtube"></i></a></li>
         </ul>
         <p class="footer-text">© 2024 WanderMorocco. All Rights Reserved.</p>
-    </footer>
-    <!--Font Awesome kit-->
-    <script src="https://kit.fontawesome.com/6a11f3d30c.js" crossorigin="anonymous"></script>
-    </body>
-
+        </footer>
+        <!--Font Awesome kit-->
+        <script src="https://kit.fontawesome.com/6a11f3d30c.js" crossorigin="anonymous"></script>
+        </body>
+    
 </html>

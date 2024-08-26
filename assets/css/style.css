@@ -87,50 +87,16 @@ body {
 }
 
 .text-left {
-    margin: 10% 5% 18% 5%;
+    margin: 5% 5% 18% 5%;
     text-align:justify;
 }
 
 
 #ancient-morocco-video {
     float:right;
-    width:100;
-    margin: 5%;
-}
-
-
-/* Second Paragraph styles */
-#riad-image {
-    float:left;
     width:100%;
     max-width: 300px;
-    margin: 10% 5% 0% 5%;
-    border-radius:10px;
-}
-
-.text-right {
-    text-align:right;
-    margin:10% 5% 10% 5%;
-    text-align:justify;
-}
-
-.second-paragraph {
-    margin:10% 5% 18% 5%;
-    text-align:justify;
-}
-
-#islam-history-morocco {
-    float:left;
-    width:100%;
-    max-width: 300px;
-    margin: 16% 5% 18% 5%;
-}
-
-/* Third Paragraph */
-#modern-history-morocco {
-    float:right;
-    width:100;
-    margin: 15% 5% 5% 5%;
+    margin: 5% 5% 10% 5%;
 }
 
 #tangier-image {
@@ -141,6 +107,68 @@ body {
     border-radius:10px;
 }
 
+
+/* Second Paragraph styles */
+#riad-image {
+    float:left;
+    width:100%;
+    max-width: 300px;
+    margin: 5% 5% 0% 5%;
+    border-radius:10px;
+}
+
+.text-right {
+    text-align:right;
+    margin:10% 5% 10% 5%;
+    text-align:justify;
+}
+
+.second-paragraph {
+    margin:5% 5% 18% 5%;
+    text-align:justify;
+}
+
+#islam-history-morocco {
+    float:left;
+    width:100%;
+    max-width: 300px;
+    margin: 16% 5% 18% 5%;
+}
+
+#marrakech-image {
+    float:left;
+    width:100%;
+    max-width: 300px;
+    margin: 10% 5% 0% 5%;
+    border-radius:10px;
+}
+
+/* Third Paragraph */
+#modern-history-morocco {
+    float:right;
+    width:100;
+    margin: 15% 5% 5% 5%;
+}
+
+#fes-image {
+    float:right;
+    width:100%;
+    max-width:230px;
+    margin: 10% 5% 5% 5%;
+    border-radius:10px;
+}
+
+/* Forth Paragraph */
+
+#casablance-image {
+    float:left;
+    width:100%;
+    max-width: 250px;
+    margin: 10% 5% 0% 5%;
+    border-radius:10px;
+}
+
+
 /* Style hyperlink */
 a {
     font-weight:bold;
@@ -150,7 +178,7 @@ hr {
     margin:0;
     padding:0;
     border: none;
-    border-top:1px solid #471507;
+    border-top:2px solid #471507;
 }
 /* Contact section */
 #contact-section {
@@ -234,7 +262,9 @@ footer li {
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    .intro-image, .riad-image {
+    #website-owner-image {
         width:100%;
+        display:flex;
+        justify-content: center;
     }
 }
