@@ -81,13 +81,13 @@ body {
 #website-owner-image {
     float:right;
     width:100%;
-    max-width:250px;
+    max-width:220px;
     margin: 0 5% 5% 5%;
     border-radius:10px;
 }
 
 .text-left {
-    margin: 5% 5% 18% 5%;
+    margin: 5% 5% 13% 5%;
     text-align:justify;
 }
 
@@ -96,7 +96,7 @@ body {
     float:right;
     width:100%;
     max-width: 300px;
-    margin: 5% 5% 10% 5%;
+    margin: 5% 5% 5% 5%;
 }
 
 #tangier-image {
@@ -112,27 +112,21 @@ body {
 #riad-image {
     float:left;
     width:100%;
-    max-width: 300px;
+    max-width: 250px;
     margin: 5% 5% 0% 5%;
     border-radius:10px;
 }
 
-.text-right {
-    text-align:right;
-    margin:10% 5% 10% 5%;
-    text-align:justify;
-}
-
 .second-paragraph {
-    margin:5% 5% 18% 5%;
+    margin:5% 5% 12% 5%;
     text-align:justify;
 }
 
-#islam-history-morocco {
+#modern-history-morocco {
     float:left;
     width:100%;
     max-width: 300px;
-    margin: 16% 5% 18% 5%;
+    margin: 13% 5% 15% 5%;
 }
 
 #marrakech-image {
@@ -144,12 +138,6 @@ body {
 }
 
 /* Third Paragraph */
-#modern-history-morocco {
-    float:right;
-    width:100;
-    margin: 15% 5% 5% 5%;
-}
-
 #fes-image {
     float:right;
     width:100%;
