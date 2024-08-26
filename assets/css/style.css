@@ -82,21 +82,20 @@ body {
     float:right;
     width:100%;
     max-width:250px;
-    margin: 0 0 0 5%;
+    margin: 0 5% 5% 5%;
     border-radius:10px;
 }
 
 .text-left {
-    margin: 10% 5% 15% 5%;
+    margin: 10% 5% 18% 5%;
     text-align:justify;
 }
 
 
 #ancient-morocco-video {
     float:right;
-    max-width: 500px;
-    max-height:500px;
-    margin: 0 0 0 5%;
+    width:100;
+    margin: 5%;
 }
 
 
@@ -105,7 +104,7 @@ body {
     float:left;
     width:100%;
     max-width: 300px;
-    margin:0 5% 0 0;
+    margin: 10% 5% 0% 5%;
     border-radius:10px;
 }
 
@@ -119,6 +118,21 @@ body {
 .second-paragraph {
     margin:10% 5% 18% 5%;
 }
+
+#islam-history-morocco {
+    float:left;
+    width:100%;
+    max-width: 300px;
+    margin: 16% 5% 18% 5%;
+}
+
+/* Third Paragraph */
+#modern-history-morocco {
+    float:right;
+    width:100;
+    margin: 15% 5% 5% 5%;
+}
+
 /* Style hyperlink */
 a {
     font-weight:bold;
