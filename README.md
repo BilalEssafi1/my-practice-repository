@@ -2,7 +2,7 @@
 [View the live project here](https://bilalessafi1.github.io/project1-morocco-guide/)
 
 WanderMorocco is a comprehensive informational website that explores the beauty, culture, and history of Morocco from a Morroccan's perspective. The website is designed to be fully responsive, ensuring an optimal viewing experience on devices ranging from mobile phones to desktop computers. The target audience includes travelers, culture enthusiasts, and anyone interested in learning about Morocco.
-![Screenshot responsive design](assets/media/Screenshot-responsive-design.png)
+![Screenshot responsive design](assets/media/screenshot-responsive-design.png)
 
 # User Experience (UX)
 ## Project Goals
@@ -40,17 +40,17 @@ The website features two YouTube videos that provide additional insights into Mo
 - A consistent and intuitive navigation bar is available on all pages, ensuring that users can easily move between sections of the site.
 - The navigation includes links to major sections such as History, Culture, Travel Tips, and Contact.
 
-![Screenshot navigation bar](assets/media/Navigation.png)
+![Screenshot navigation bar](assets/media/navigation.png)
 
 
 ## Footer
 The footer includes social media icons for Facebook, Instagram, Twitter, and YouTube. These icons link to their respective social media platforms and open in a new tab.
 
-![Screenshot Footer](assets/media/Footer.png)
+![Screenshot Footer](assets/media/footer.png)
 
 ## Videos
 The history section contains two YouTube videos that provide additional details about the country for those interested in learning more. To avoid distracting users from the main content, the videos will only start playing when clicked. Users can choose to watch the videos in a small window or expand them to full screen.
-![Screenshot Video](assets/media/Video.png)
+![Screenshot Video](assets/media/video.png)
 
 ## Contact Form
 Users can contact the author by navigating to the Contact section, where they will find a contact form. All fields, except for the checkbox and radio buttons, must be filled out before submission. If any of the mandatory fields are incomplete, an error message will appear to inform the user of the missing information.
@@ -86,12 +86,12 @@ Users can contact the author by navigating to the Contact section, where they wi
 
 # Validator Testing
 - HTML
-  - No errors were returned when passing through the official W3C validator [(see screenshots here)](Validation.md)
+  - No errors were returned when passing through the official W3C validator [(see screenshots here)](validation.md)
 - CSS
-  - No errors were returned when passing through the official Jigsaw validator [(see screenshot here)](Validation.md)
+  - No errors were returned when passing through the official Jigsaw validator [(see screenshot here)](validation.md)
 - Accessibility
   - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
-  ![Screenshot Lighthouse result](assets/media/Lightouse-result.png)
+  ![Screenshot Lighthouse result](assets/media/lightouse-result.png)
 
 # Known Bugs
 ## Responsive Design Issues
