@@ -55,7 +55,7 @@ The history section contains two YouTube videos that provide additional details 
 ## Contact Form
 Users can contact the author by navigating to the Contact section, where they will find a contact form. All fields, except for the checkbox and radio buttons, must be filled out before submission. If any of the mandatory fields are incomplete, an error message will appear to inform the user of the missing information.
 
-![Screenshot Video](assets/media/Form.png)
+![Screenshot Video](assets/media/form.png)
 
 # Technologies Used
 - HTML
