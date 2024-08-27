@@ -21,14 +21,14 @@ The primary goal of WanderMorocco is to provide an engaging and informative plat
   - As a returning visitor, I want to see if there are new travel tips or updates about Morocco.
   - As a returning visitor, I want to be able to contact the author to learn more.
 
-  ## Design
-  ### Color Scheme
-  The color scheme of the website includes warm earth tones inspired by the Moroccan landscape. These include deep reds, oranges, and browns, which evoke the Sahara Desert and traditional Moroccan architecture.
+## Design
+### Color Scheme
+The color scheme of the website includes warm earth tones inspired by the Moroccan landscape. These include deep reds, oranges, and browns, which evoke the Sahara Desert and traditional Moroccan architecture.
 
-  ### Typography
- The website uses a cursive font style to evoke a personal diary feel while reflecting modern elements of Moroccan culture. The primary font is Handlee, chosen for its readability and cursive appearance. A secondary cursive-style font complements Handlee, enhancing the clean, personal feel of the site.
+### Typography
+The website uses a cursive font style to evoke a personal diary feel while reflecting modern elements of Moroccan culture. The primary font is Handlee, chosen for its readability and cursive appearance. A secondary cursive-style font complements Handlee, enhancing the clean, personal feel of the site.
 
- ### Imagery
+### Imagery
 Imagery plays a crucial role in the WanderMorocco website. High-resolution photos of Moroccan architecture and landscapes, most of which were taken by me, are used throughout the site to immerse users in the Moroccan experience and enhance its authenticity.
 
 ### Videos
@@ -80,6 +80,11 @@ Users can contact the author by navigating to the Contact section, where they wi
 
 ## GitPages
 - [GitPages](https://pages.github.com/) was used to deploy the website. 
+
+## Tinify
+- [Tinify](https://tinypng.com) was used to resize images and improve the performance of the website. 
+
+# Validation:
 
 
 
