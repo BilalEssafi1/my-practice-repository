@@ -89,7 +89,7 @@ body {
 
 .text-left {
     margin: 5% 5% 13% 5%;
-    text-align:justify;
+    text-align:left;
 }
 
 
@@ -120,7 +120,7 @@ body {
 
 .text-right {
     margin:5% 5% 12% 5%;
-    text-align:justify;
+    text-align:right;
 }
 
 #modern-history-morocco {
