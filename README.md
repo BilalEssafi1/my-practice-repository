@@ -86,7 +86,45 @@ Users can contact the author by navigating to the Contact section, where they wi
 
 # Validator Testing
 - HTML
-  - No errors were returned when passing through the official W3C validator [(see screenshot here)](assets/media/W3C%20validator.png)
+  - No errors were returned when passing through the official W3C validator [(see screenshots here)](Validation.md)
 - CSS
- -
+  - No errors were returned when passing through the official Jigsaw validator [(see screenshot here)](Validation.md)
+- Accessibility
+  - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
+  ![Screenshot Lighthouse result](assets/media/Lightouse-result.png)
+
+# Known Bugs
+## Responsive Design Issues
+- The website may not display correctly on very small mobile or very large desktop screens. 
+
+
+# Deployment
+The site was developed using [GitPod](https://www.gitpod.io/) and pushed to GitHub through a GitPod terminal. 
+To deploy this site, GitHub Pages was used. The steps for deployment are as follows:
+  - Log in to Github.
+  - Locate and click on the right GitHub repository.
+  - At the top of the repository, locate and click on Settings
+  - Navigate to the Pages section. 
+  - Unser Source click the drop-down menu und select Main.
+  - Click on Save
+  - The page will automatically refresh, and you will receive a link to the deployed website. 
+
+# Credits
+
+## Content:
+- The Icons used for the Footer were taken from [Font Awesome](https://fontawesome.com/)
+- The font for the website was taken from [Google Fonts](https://fonts.google.com/)
+
+## Media:
+- Images:
+  - The header image of the man walking with his camels was taken from https://www.taruk.com/, and the Image of the interior of the riad was taken from https://www.tablethotels.com/. All other images were created by me 
+  - YouTube Videos:
+    - The video in the "Moroccan's Ancient Roots" section was taken from the "[Mr Histories](https://www.youtube.com/@MrHistory1)" YouTube channel.
+    - The video in the "Modern Morocco" section was taken from the "[This is AmericaTV](https://www.youtube.com/@ThisIsAmericaTV)" YouTube channel.
+
+# Code
+- The footer code came originally based on the [Love Running Project](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md), and the code to create a '::before' element in front of the header for improved readibility came originally from [Mozilla's Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/::before). However, all the code has been modified to suit the specific needs of this website and is no longer in its original form."
+
+# Read Me
+The basic structure of the Readme were taken from [Code Institute's](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md) and [flowlesscooking](https://github.com/Martiless/flawlesscooking?tab=readme-ov-file) Readme samples. 
 
