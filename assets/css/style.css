@@ -97,7 +97,7 @@ body {
     float:right;
     width:100%;
     max-width: 300px;
-    margin: 5% 5% 5% 5%;
+    margin: 3% 5% 5% 5%;
 }
 
 #tangier-image {
@@ -127,7 +127,7 @@ body {
     float:left;
     width:100%;
     max-width: 300px;
-    margin: 8% 5% 1% 5%;
+    margin: 6% 5% 1% 5%;
 }
 
 #marrakech-image {
@@ -171,7 +171,7 @@ hr {
 }
 /* Contact section */
 #contact-section {
-    text-align:cener;
+    text-align:center;
     margin:5%;
 }
 
@@ -258,7 +258,7 @@ footer li {
         margin: 5% 0 0 0;
     }
 }
-@media (max-width:768px){
+@media (max-width:768px) {
     nav {
         width:100%;
     }

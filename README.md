@@ -84,7 +84,9 @@ Users can contact the author by navigating to the Contact section, where they wi
 ## Tinify
 - [Tinify](https://tinypng.com) was used to resize images and improve the performance of the website. 
 
-# Validation:
-
-
+# Validator Testing
+- HTML
+  - No errors were returned when passing through the official W3C validator [(see screenshot here)](assets/media/W3C%20validator.png)
+- CSS
+ -
 
