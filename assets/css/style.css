@@ -70,7 +70,7 @@ nav a:hover {
 }
 /* Body styles */ 
 body {
-    font-size:1.1em;
+    font-size:1.3em;
     margin:0%;
     padding:0;
     font-family: "Handlee", cursive;
@@ -176,9 +176,10 @@ hr {
 }
 
 /*Form styles */
-form {
+#contact-form {
     max-width: 200px;
     margin: 0 auto;
+    text-align:left;
 }
 
 /*Label and input styles */
