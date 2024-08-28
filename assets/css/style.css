@@ -68,6 +68,11 @@ nav a:hover {
     color:#D3A96C;
     text-decoration:underline;
 }
+
+.active_page {
+    color:#D3A96C;
+    text-decoration:underline;
+}
 /* Body styles */ 
 body {
     font-size:1.3em;
