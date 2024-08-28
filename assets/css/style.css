@@ -253,6 +253,13 @@ footer li {
     font-size: 14px;
 }
 
+/* Thank you page styles */
+
+.thank-you-text {
+    text-align:center;
+    margin:15%; 
+}
+
 @media (max-width:768px){
     main, footer {
         display:flex;
