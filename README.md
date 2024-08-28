@@ -123,7 +123,7 @@ To deploy this site, GitHub Pages was used. The steps for deployment are as foll
     - The video in the "Modern Morocco" section was taken from the "[This is AmericaTV](https://www.youtube.com/@ThisIsAmericaTV)" YouTube channel.
 
 # Code
-- The footer code came originally based on the [Love Running Project](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md), and the code to create a '::before' element in front of the header for improved readibility came originally from [Mozilla's Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/::before). However, all the code has been modified to suit the specific needs of this website and is no longer in its original form."
+- The footer code came originally based on the [Love Running Project](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md), and the code to create a '::before' element in front of the header for improved readibility came originally from [Mozilla's Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/::before). However, all the code has been modified to suit the specific needs of this website and is no longer in its original form.
 
 # Read Me
 The basic structure of the Readme were taken from [Code Institute's](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md) and [flowlesscooking](https://github.com/Martiless/flawlesscooking?tab=readme-ov-file) Readme samples. 
