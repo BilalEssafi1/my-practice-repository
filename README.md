@@ -94,8 +94,8 @@ Users can contact the author by navigating to the Contact section, where they wi
   ![Screenshot Lighthouse result](assets/media/lightouse-result.png)
 
 # Known Bugs
-## Responsive Design Issues
-- The website may not display correctly on very small mobile or very large desktop screens. 
+## Blank Space Validation in Textarea Fields
+The <textarea> field cannot prevent submissions with only blank spaces using HTML alone in contrary to the <input> fields. 
 
 
 # Deployment
@@ -106,7 +106,7 @@ To deploy this site, GitHub Pages was used. The steps for deployment are as foll
   - At the top of the repository, locate and click on Settings
   - Navigate to the Pages section. 
   - Unser Source click the drop-down menu und select Main.
-  - Click on Save
+  - Click on Save.
   - The page will automatically refresh, and you will receive a link to the deployed website. 
 
 # Credits
