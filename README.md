@@ -9,9 +9,9 @@ WanderMorocco is a comprehensive informational website that explores the beauty,
 The primary goal of WanderMorocco is to provide an engaging and informative platform for users to explore the diverse aspects of Moroccan culture. Whether visitors are planning a trip, learning about Moroccan history, or simply browsing, the site is designed to be intuitive and informative.
 
 ## Target Audience
-- Travelers interested in visiting Morocco
-- Cultural enthusiasts
-- General users with an interest in learning about Morocco
+- Travelers interested in visiting Morocco.
+- Cultural enthusiasts.
+- General users with an interest in learning about Morocco.
 
 ## User Stories
 - First-Time Visitor Goals:
@@ -77,7 +77,7 @@ Users can reach out to the author by visiting the Contact section, where a conta
 # Frameworks, Libraries, Programs Used
 
 ## Google Fonts
-- The font [Handlee](https://fonts.google.com/specimen/Handlee?query=handlee) was imported from [Google Fonts](https://fonts.google.com/)
+- The font [Handlee](https://fonts.google.com/specimen/Handlee?query=handlee) was imported from [Google Fonts](https://fonts.google.com/).
 
 ## Font Awesome
 - [Font Awesome](https://fontawesome.com/) was used to add social media icons to the footer of all website pages. 
@@ -102,9 +102,9 @@ Users can reach out to the author by visiting the Contact section, where a conta
 
 # Validator Testing
 - HTML
-  - No errors were returned when passing through the official W3C validator [(see screenshots here)](validation.md)
+  - No errors were returned when passing through the official W3C validator [(see screenshots here)](validation.md).
 - CSS
-  - No errors were returned when passing through the official Jigsaw validator [(see screenshot here)](validation.md)
+  - No errors were returned when passing through the official Jigsaw validator [(see screenshot here)](validation.md).
 - Accessibility
   - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
 
@@ -120,7 +120,7 @@ The site was developed using [GitPod](https://www.gitpod.io/) and pushed to GitH
 To deploy this site, GitHub Pages was used. The steps for deployment are as follows:
   - Log in to Github.
   - Locate and click on the right GitHub repository.
-  - At the top of the repository, locate and click on Settings
+  - At the top of the repository, locate and click on Settings.
   - Navigate to the Pages section. 
   - Unser Source click the drop-down menu und select Main.
   - Click on Save.
@@ -130,7 +130,7 @@ To deploy this site, GitHub Pages was used. The steps for deployment are as foll
 - Log in to GitHub.
 - Go to the repository for this project: https://github.com/BilalEssafi1/project1-morocco-guide.
 - Click on the Fork button on the right hand corner.
-- Select "Create a new fork"
+- Select "Create a new fork".
 
   How to Clone this project:
 - Log in to GitHub.
@@ -144,8 +144,8 @@ To deploy this site, GitHub Pages was used. The steps for deployment are as foll
 # Credits
 
 ## Content:
-- The Icons used for the Footer were taken from [Font Awesome](https://fontawesome.com/)
-- The font for the website was taken from [Google Fonts](https://fonts.google.com/)
+- The Icons used for the Footer were taken from [Font Awesome](https://fontawesome.com/).
+- The font for the website was taken from [Google Fonts](https://fonts.google.com/).
 
 ## Media:
 - Images:
