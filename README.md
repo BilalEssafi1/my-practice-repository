@@ -21,6 +21,18 @@ The primary goal of WanderMorocco is to provide an engaging and informative plat
   - As a returning visitor, I want to see if there are new travel tips or updates about Morocco.
   - As a returning visitor, I want to be able to contact the author to learn more.
 
+## Wireframes
+The initial design of the website for mobile, tablet and desktop was created using [Balsamiq](https://balsamiq.com), a tool specifically designed for creating wireframes.
+
+### Wireframe Desktop
+![Wireframe Desktop](assets/media/wireframe-desktop.png)
+
+### Wireframe Tablet
+![Wireframe Tablet](assets/media/wireframe-tablet.png)
+
+### Wireframe Mobile
+![Wireframe Mobile](assets/media/wireframe-mobile.png)
+
 ## Design
 ### Color Scheme
 The color scheme of the website includes warm earth tones inspired by the Moroccan landscape. These include deep reds, oranges, and browns, which evoke the Sahara Desert and traditional Moroccan architecture.
@@ -73,6 +85,9 @@ Users can reach out to the author by visiting the Contact section, where a conta
 ## Am I Responsive
 - [Am I Responsive](https://ui.dev/amiresponsive) was used to ensure that the website's responsiveness across various screen sizes. 
 
+## Balsamiq
+- [Balsamiq](https://balsamiq.com) was used to create wireframes.
+
 ## GitPod
 - [GitPod](https://www.gitpod.io/) was used to write the code for this websitem and to commit and push the code to Github.
 
@@ -92,7 +107,7 @@ Users can reach out to the author by visiting the Contact section, where a conta
   - No errors were returned when passing through the official Jigsaw validator [(see screenshot here)](validation.md)
 - Accessibility
   - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
-  ![Screenshot Lighthouse result](assets/media/lightouse-result.png)
+  ![Screenshot Lighthouse result](assets/media/lighthouse-result.png)
 
 # Known Bugs
 ## Blank Space Validation in Textarea Fields
@@ -125,7 +140,6 @@ To deploy this site, GitHub Pages was used. The steps for deployment are as foll
 - Open the terminal in your code editor and change the working directory using the cd command to the location where you want to clone the repository.
 - Run the git clone command followed by the repository URL you copied, and press Enter.
 
-
 # Credits
 
 ## Content:
@@ -140,7 +154,7 @@ To deploy this site, GitHub Pages was used. The steps for deployment are as foll
     - The video in the "Modern Morocco" section was taken from the "[This is AmericaTV](https://www.youtube.com/@ThisIsAmericaTV)" YouTube channel.
 
 # Code
-- The footer code came originally based on the [Love Running Project](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md), and the code to create a '::before' element in front of the header for improved readibility came originally from [Mozilla's Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/::before). However, all the code has been modified to suit the specific needs of this website and is no longer in its original form.
+- The footer code came originally based on the [Love Running Project](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md), and the code to create a '::before' element in front of the header for improved readibility came originally from [Mozilla's Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/::before). In addition, the code to avoid blank space entries in the <input> fields of the contact form came from [Stack Overflow](https://stackoverflow.com/questions/13766015/is-it-possible-to-configure-a-required-field-to-ignore-white-space). However, all the code has been modified to suit the specific needs of this website and is no longer in its original form.
 
 # Read Me
 The basic structure of the Readme were taken from [Code Institute's](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md) and [flowlesscooking](https://github.com/Martiless/flawlesscooking?tab=readme-ov-file) Readme samples. 
