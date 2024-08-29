@@ -106,7 +106,8 @@ Users can reach out to the author by visiting the Contact section, where a conta
 - CSS
   - No errors were returned when passing through the official Jigsaw validator [(see screenshot here)](validation.md)
 - Accessibility
-  - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
+  - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
+
   ![Screenshot Lighthouse result](assets/media/lighthouse-result.png)
 
 # Known Bugs
@@ -157,5 +158,5 @@ To deploy this site, GitHub Pages was used. The steps for deployment are as foll
 - The footer code came originally based on the [Love Running Project](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md), and the code to create a '::before' element in front of the header for improved readibility came originally from [Mozilla's Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/::before). In addition, the code to avoid blank space entries in the <input> fields of the contact form came from [Stack Overflow](https://stackoverflow.com/questions/13766015/is-it-possible-to-configure-a-required-field-to-ignore-white-space). However, all the code has been modified to suit the specific needs of this website and is no longer in its original form.
 
 # Read Me
-The basic structure of the Readme were taken from [Code Institute's](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md) and [flowlesscooking](https://github.com/Martiless/flawlesscooking?tab=readme-ov-file) Readme samples. 
+The basic structure of the Readme were taken from [Code Institute's](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md), [flowlesscooking](https://github.com/Martiless/flawlesscooking?tab=readme-ov-file) and [TheQuizArms](https://github.com/kera-cudmore/TheQuizArms#Features) Readme samples. 
 
