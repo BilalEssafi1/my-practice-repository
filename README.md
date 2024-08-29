@@ -37,7 +37,7 @@ The website features two YouTube videos that provide additional insights into Mo
 # Features
 
 ## Navigation
-- A consistent and intuitive navigation bar is available on all pages, ensuring that users can easily move between sections of the site.
+- A consistent and intuitive navigation bar is present on all pages, allowing users to easily move between sections and always know their current location on the site, indicated by highlighted active links.
 - The navigation includes links to major sections such as History, Culture, Travel Tips, and Contact.
 
 ![Screenshot navigation bar](assets/media/navigation.png)
@@ -53,9 +53,10 @@ The history section contains two YouTube videos that provide additional details 
 ![Screenshot Video](assets/media/video.png)
 
 ## Contact Form
-Users can contact the author by navigating to the Contact section, where they will find a contact form. All fields, except for the checkbox and radio buttons, must be filled out before submission. If any of the mandatory fields are incomplete, an error message will appear to inform the user of the missing information.
+Users can reach out to the author by visiting the Contact section, where a contact form is provided. All fields, except for checkboxes and radio buttons, are mandatory and must be filled out before submission. If any required fields are incomplete, an error message will alert the user to the missing information. Additionally, the <input> fields are configured to prevent submissions with only blank spaces, ensuring valid input. Upon successful submission, users are redirected to a thank you landing page that maintains the same style as the homepage. 
 
-![Screenshot Video](assets/media/form.png)
+![Screenshot Form](assets/media/form.png)
+
 
 # Technologies Used
 - HTML
@@ -108,6 +109,22 @@ To deploy this site, GitHub Pages was used. The steps for deployment are as foll
   - Unser Source click the drop-down menu und select Main.
   - Click on Save.
   - The page will automatically refresh, and you will receive a link to the deployed website. 
+
+  How to Fork this project:
+- Log in to GitHub.
+- Go to the repository for this project: https://github.com/BilalEssafi1/project1-morocco-guide.
+- Click on the Fork button on the right hand corner.
+- Select "Create a new fork"
+
+  How to Clone this project:
+- Log in to GitHub.
+- Go to the repository for this project: https://github.com/BilalEssafi1/project1-morocco-guide.
+- Click the green Code button.
+- Under the "Clone" section, you will see the repository URL. You can choose between HTTPS, SSH, or GitHub CLI.
+- Click the clipboard icon next to the URL to copy the link.
+- Open the terminal in your code editor and change the working directory using the cd command to the location where you want to clone the repository.
+- Run the git clone command followed by the repository URL you copied, and press Enter.
+
 
 # Credits
 
